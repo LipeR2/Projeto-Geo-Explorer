@@ -21,7 +21,7 @@ I.A. + Agentic + IBM Bob
 
 | **Temas** | **Resumos** |
 |-------|---------|
-| **Criar um repositório** | Criar um novo repositório no GitHub para fazer um projeto localmente com o IBM BOB. |
+| **Criar um repositório** | Criar um novo repositório no GitHub para fazer um projeto localmente com o IBM Bob. |
 | **Organizar projetos** | Organizar em pastas os dados, comandos, documentação, testes e demais recursos. |
 | **Montar uma base de trilhas** | Montar uma base de conhecimento num arquivo com informações relevantes sobre tecnologias, níveis e módulos. |
 | **Estruturar comandos** | Estruturar os prompts de comandos para implementar trilhas, desafios e certificados. |
